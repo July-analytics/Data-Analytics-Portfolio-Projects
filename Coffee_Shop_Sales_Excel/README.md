@@ -18,6 +18,6 @@ Analyze 149K+ sales transactions (Jan–Jun 2023) across 3 New York store locati
 - Location Balance: Hell's Kitchen led total revenue ($236.5K), while Lower Manhattan recorded the highest average basket size ($4.81).Recommendation:Optimize inventory & staffing at Lower Manhattan during morning rush.
 
 ## How to Run / Files
-- Download or clone Coffee Shop Sales.xlsx.
+- Download or clone `Coffee Shop Sales.xlsx`.
 - Open in Microsoft Excel (2016 or newer recommended).
 - Navigate across tabs: Data (Raw Data), Pivot (Pivot Tables), and Dashboard (Interactive View).
